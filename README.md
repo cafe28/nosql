@@ -1,5 +1,4 @@
-# nosql-challenge
- 
+# nosql
 
 - Setup process:
 The code sets up a MongoDB database named uk_food and imports data from the establishments.json file into a collection named establishments.
